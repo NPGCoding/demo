@@ -7,4 +7,4 @@ if number1 < number2 :
 else:
     larger_number = number2
 # print the result
-print("The smaller number is :", smaller_number)
+print("Smaller number  :", smaller_number)
